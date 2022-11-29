@@ -15,7 +15,7 @@ Day XX month year à X heures
 npm install ng-pipe-french-date-interval  
 ```
 
-Add DateIntervalModule to your @NgModule :  
+Ajout DateIntervalModule dans @NgModule :  
 
 ```js
 import { BrowserModule } from '@angular/platform-browser';
@@ -39,7 +39,7 @@ export class AppModule { }
 
 # How to use  
 
-component example :
+Exemple de composant :
 
 ```js
 
